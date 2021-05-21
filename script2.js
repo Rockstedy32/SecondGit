@@ -7,5 +7,6 @@ window.addEventListener("load", function() {
 	
 	alert("Hi everybody!");
 	alert("Hi there!");
+	alert("Hi BUDDY!");
 	
 }, false)
